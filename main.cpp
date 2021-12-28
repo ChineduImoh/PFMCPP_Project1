@@ -116,13 +116,13 @@ devil.kill();
 //  action 3:   devil destroys
 devil.destroy();
 //  9)
-//  Noun:       tree
-//  action 1:   the tree grows
-tree.grow();
-//  action 2:   the tree absorbs water
-tree.absorbWater();
-//  action 3:   the tree provides oxygen
-tree.provideOxygen();
+//  Noun:       figTree
+//  action 1:   the figTree grows slowly
+figTree.growSlowly();
+//  action 2:   the figTree absorbs water
+figTree.absorbWater();
+//  action 3:   the figTree provides oxygen
+figTree.provideOxygen();
 //  10)
 //  Noun:       fire
 //  action 1:   the fire burns
