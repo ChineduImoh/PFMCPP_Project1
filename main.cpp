@@ -52,89 +52,87 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       computer
+//  action 1:   computer stores information
+computer.storeInformation();
+//  action 2:   computer retrieves information
+computer.retrieveInformation();
+//  action 3:   computer processes information
+computer.processInformation();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       sun
+//  action 1:   the sun radiates light
+sun.radiateLight();
+//  action 2:   the sun radiates heat
+sun.radiateHeat();
+//  action 3:   the sun radiates solar energy
+sun.radiateSolarEnergy();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       water
+//  action 1:   the water waves
+water.wave();
+//  action 2:   the water vaporizes
+water.vapourize();
+//  action 3:   the water freezes
+water.freeze();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       drake
+//  action 1:   drake raps
+drake.rap();
+//  action 2:   drake sings
+drake.sing();
+//  action 3:   drake dances
+drake.dance();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       head
+//  action 1:   the head nods
+head.nod();
+//  action 2:   the head rotates
+head.rotate();
+//  action 3:   the head bends
+head.bend();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       admin
+//  action 1:   adds user
+admin.addUser();
+//  action 2:   deletes user
+admin.deleteUser();
+//  action 3:   warns user
+admin.warnUser();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       god
+//  action 1:   god creates
+god.create();
+//  action 2:   god sustains
+god.sustain();
+//  action 3:   god cares
+god.care();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       devil
+//  action 1:   devil steals
+devil.steal();
+//  action 2:   devil kills
+devil.kill();
+//  action 3:   devil destroys
+devil.destroy();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       figTree
+//  action 1:   the figTree grows slowly
+figTree.growSlowly();
+//  action 2:   the figTree absorbs water
+figTree.absorbWater();
+//  action 3:   the figTree provides oxygen
+figTree.provideOxygen();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun:       fire
+//  action 1:   the fire burns
+fire.burn();
+//  action 2:   the fire illuminates
+fire.illuminate();
+//  action 3:   the fire emits heat
+fire.emitHeat();
 
 #endif
-
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
