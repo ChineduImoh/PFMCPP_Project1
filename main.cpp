@@ -116,13 +116,13 @@ devil.kill();
 //  action 3:   devil destroys
 devil.destroy();
 //  9)
-//  Noun:       tesla
-//  action 1:   tesla walks
-tesla.walk();
-//  action 2:   tesla jumps
-tesla.jump();
-//  action 3:   tesla sings
-tesla.sing();
+//  Noun:       tree
+//  action 1:   the tree grows
+tree.grow();
+//  action 2:   the tree absorbs water
+tree.absorbWater();
+//  action 3:   the tree provides oxygen
+tree.provideOxygen();
 //  10)
 //  Noun:       fire
 //  action 1:   the fire burns
